@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "check pwd "
+pwd
+echo "permission of all file "
+ls -l

@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "created one folder shell"
+mkdir shell
+echo "go inside the folser"
+cd shell
+echo "create 1 file into shell folder"
+touch file1
