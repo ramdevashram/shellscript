@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "see you present working directory"
+pwd
+echo "this is list of folder"
+ls
+echo "create new folder"
+mkdir dir1
